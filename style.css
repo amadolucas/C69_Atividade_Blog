@@ -13,36 +13,3 @@
 {
 margin: 20px;
 }
-
-
-.Filmes_head
-{
-    font-size: 20px;
-    padding: 6px 22px;
-    border-radius: 10px;
-    margin-bottom: 15px;
-}
-
-.Filmes_head i
-{
-float: right;
-}
-
-.Filmes_text span
-{
-color: orange;
-}
-
-
-.book 
-{
-    margin-bottom: 20px;
-}
-
-#contact iframe
-{
-    width: 100%;
-}
-
-
-
